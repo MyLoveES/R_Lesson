@@ -1,0 +1,301 @@
+condition,like,seconds_spent,age,gender,kids,segment
+control,likeNo,49.48,47,Male,2,Suburb mix
+treatment,likeNo,35.55,31,Male,1,Suburb mix
+treatment,likeNo,44.17,43,Male,0,Suburb mix
+control,likeNo,81.04,37,Female,1,Suburb mix
+treatment,likeNo,79.35,41,Female,3,Suburb mix
+treatment,likeNo,58.14,43,Male,4,Suburb mix
+control,likeNo,19.28,38,Male,3,Suburb mix
+control,likeNo,47.25,28,Male,0,Suburb mix
+control,likeNo,48.33,44,Female,1,Suburb mix
+treatment,likeNo,52.57,35,Female,0,Suburb mix
+treatment,likeNo,47.92,48,Male,0,Suburb mix
+control,likeNo,65.77,38,Female,0,Suburb mix
+control,likeNo,69.34,33,Female,2,Suburb mix
+treatment,likeNo,57.2,43,Male,3,Suburb mix
+treatment,likeNo,47.1,39,Male,1,Suburb mix
+treatment,likeNo,57.04,42,Male,3,Suburb mix
+treatment,likeNo,53.13,42,Female,0,Suburb mix
+treatment,likeNo,41.25,44,Female,0,Suburb mix
+treatment,likeNo,63.53,38,Female,1,Suburb mix
+treatment,likeYes,52.65,32,Female,2,Suburb mix
+treatment,likeNo,48.2,48,Female,1,Suburb mix
+treatment,likeNo,46.16,37,Female,6,Suburb mix
+control,likeNo,44.15,30,Male,2,Suburb mix
+treatment,likeNo,56.13,38,Female,2,Suburb mix
+treatment,likeNo,62.52,33,Female,4,Suburb mix
+treatment,likeNo,51.2,40,Female,1,Suburb mix
+control,likeNo,59.44,27,Male,2,Suburb mix
+control,likeNo,57.36,45,Male,0,Suburb mix
+control,likeNo,56.11,35,Female,1,Suburb mix
+control,likeNo,76.49,40,Female,2,Suburb mix
+control,likeNo,65.72,54,Male,1,Suburb mix
+control,likeNo,45.18,43,Female,3,Suburb mix
+treatment,likeNo,49.94,37,Male,1,Suburb mix
+control,likeNo,60.04,37,Male,4,Suburb mix
+control,likeNo,65.17,45,Female,0,Suburb mix
+control,likeNo,46.77,34,Male,1,Suburb mix
+treatment,likeNo,61.29,44,Male,3,Suburb mix
+control,likeNo,49.39,43,Female,1,Suburb mix
+treatment,likeNo,30.77,33,Female,2,Suburb mix
+treatment,likeNo,59.8,41,Female,2,Suburb mix
+treatment,likeNo,52.65,45,Male,2,Suburb mix
+control,likeNo,54.26,30,Female,3,Suburb mix
+treatment,likeNo,49.74,41,Male,2,Suburb mix
+control,likeNo,71.99,43,Male,1,Suburb mix
+control,likeNo,51.92,46,Male,1,Suburb mix
+control,likeNo,55.38,34,Male,1,Suburb mix
+treatment,likeNo,67.5,39,Female,3,Suburb mix
+control,likeNo,67.93,40,Female,1,Suburb mix
+control,likeNo,46.71,47,Female,3,Suburb mix
+treatment,likeNo,28.27,41,Male,2,Suburb mix
+treatment,likeNo,73.3,37,Female,2,Suburb mix
+treatment,likeNo,58.04,40,Male,2,Suburb mix
+treatment,likeYes,55.85,34,Female,6,Suburb mix
+control,likeNo,62.19,43,Male,3,Suburb mix
+treatment,likeNo,52.81,42,Female,4,Suburb mix
+control,likeNo,51.58,45,Male,4,Suburb mix
+treatment,likeNo,54.14,37,Male,1,Suburb mix
+control,likeNo,60.97,34,Male,2,Suburb mix
+control,likeNo,27.67,35,Male,1,Suburb mix
+control,likeNo,59.14,41,Male,3,Suburb mix
+control,likeNo,46.75,40,Female,1,Suburb mix
+control,likeNo,57.95,49,Male,1,Suburb mix
+control,likeNo,40.78,42,Female,3,Suburb mix
+control,likeNo,49.35,36,Female,1,Suburb mix
+control,likeYes,68.64,46,Male,1,Suburb mix
+control,likeNo,61.39,40,Female,2,Suburb mix
+control,likeNo,39.59,39,Female,1,Suburb mix
+treatment,likeNo,72.68,33,Female,3,Suburb mix
+control,likeNo,56.25,32,Female,2,Suburb mix
+control,likeNo,59.19,43,Male,1,Suburb mix
+control,likeNo,53.43,36,Female,1,Suburb mix
+treatment,likeNo,70.38,40,Female,2,Suburb mix
+treatment,likeNo,38.4,49,Female,1,Suburb mix
+control,likeNo,51.41,42,Male,1,Suburb mix
+treatment,likeNo,53.17,33,Male,4,Suburb mix
+control,likeNo,85.29,33,Male,4,Suburb mix
+control,likeNo,46.08,44,Male,1,Suburb mix
+control,likeNo,60.01,39,Male,3,Suburb mix
+treatment,likeNo,49.67,42,Male,0,Suburb mix
+treatment,likeNo,49.82,40,Male,1,Suburb mix
+treatment,likeNo,79.54,48,Female,1,Suburb mix
+control,likeNo,52.29,38,Female,3,Suburb mix
+treatment,likeNo,66.93,43,Female,1,Suburb mix
+treatment,likeYes,49.35,34,Male,2,Suburb mix
+control,likeNo,66.27,36,Male,1,Suburb mix
+control,likeNo,39.44,36,Male,1,Suburb mix
+treatment,likeNo,47,45,Female,1,Suburb mix
+control,likeNo,42.34,44,Female,5,Suburb mix
+control,likeYes,58.87,42,Female,3,Suburb mix
+treatment,likeNo,76.18,40,Male,2,Suburb mix
+treatment,likeNo,68.94,45,Male,5,Suburb mix
+treatment,likeNo,63.68,48,Female,2,Suburb mix
+control,likeNo,57.13,40,Male,0,Suburb mix
+control,likeNo,60.77,41,Male,3,Suburb mix
+treatment,likeYes,53.42,45,Male,3,Suburb mix
+treatment,likeNo,44.89,41,Male,5,Suburb mix
+treatment,likeNo,58.89,37,Female,2,Suburb mix
+control,likeNo,57.99,36,Female,1,Suburb mix
+treatment,likeNo,56.02,46,Male,3,Suburb mix
+control,likeNo,29.26,43,Male,1,Suburb mix
+control,likeYes,18.46,25,Male,1,Urban hip
+control,likeYes,26.49,26,Male,1,Urban hip
+control,likeNo,11.99,23,Male,1,Urban hip
+control,likeNo,16.65,21,Male,3,Urban hip
+control,likeNo,17.78,23,Male,1,Urban hip
+control,likeNo,23.89,23,Male,1,Urban hip
+control,likeYes,17.51,23,Male,1,Urban hip
+treatment,likeYes,18.42,21,Male,1,Urban hip
+control,likeNo,21.11,22,Male,0,Urban hip
+control,likeNo,25.51,23,Male,2,Urban hip
+control,likeNo,21.7,23,Female,3,Urban hip
+control,likeNo,23.84,24,Male,0,Urban hip
+control,likeNo,15.49,24,Male,1,Urban hip
+control,likeNo,22.52,21,Male,3,Urban hip
+control,likeNo,25.21,27,Male,0,Urban hip
+control,likeNo,17.38,23,Male,4,Urban hip
+control,likeNo,22.76,24,Female,0,Urban hip
+treatment,likeNo,18.12,24,Female,1,Urban hip
+control,likeNo,32.19,25,Male,1,Urban hip
+treatment,likeNo,23.81,26,Male,2,Urban hip
+control,likeYes,12.54,25,Female,1,Urban hip
+treatment,likeNo,22.4,23,Female,0,Urban hip
+control,likeNo,24,27,Male,1,Urban hip
+control,likeNo,24.54,22,Female,1,Urban hip
+treatment,likeNo,22.91,25,Male,2,Urban hip
+control,likeNo,22.01,24,Male,0,Urban hip
+control,likeNo,20.3,24,Male,0,Urban hip
+control,likeYes,27.81,22,Male,2,Urban hip
+control,likeYes,15.91,23,Female,0,Urban hip
+treatment,likeYes,20.22,22,Female,2,Urban hip
+control,likeNo,18.11,24,Male,0,Urban hip
+control,likeNo,22.1,25,Female,2,Urban hip
+control,likeNo,17.37,26,Female,0,Urban hip
+control,likeNo,27.24,21,Female,1,Urban hip
+control,likeNo,22.18,28,Male,1,Urban hip
+control,likeNo,33.91,23,Male,3,Urban hip
+control,likeYes,23.33,25,Male,2,Urban hip
+control,likeNo,17.08,21,Female,2,Urban hip
+treatment,likeNo,31.28,28,Female,2,Urban hip
+control,likeNo,17.76,25,Male,1,Urban hip
+control,likeYes,20.13,25,Female,2,Urban hip
+control,likeNo,23.84,25,Female,0,Urban hip
+control,likeNo,16.34,22,Male,0,Urban hip
+treatment,likeNo,24.53,22,Male,2,Urban hip
+treatment,likeNo,25.84,25,Female,0,Urban hip
+control,likeNo,18.59,19,Female,0,Urban hip
+control,likeNo,12.41,26,Female,0,Urban hip
+control,likeNo,28.33,26,Male,1,Urban hip
+control,likeNo,27.21,23,Female,0,Urban hip
+treatment,likeNo,23.05,25,Female,0,Urban hip
+treatment,likeNo,91.51,56,Female,0,Travelers
+treatment,likeNo,61.05,64,Male,0,Travelers
+treatment,likeNo,5.18,46,Male,0,Travelers
+control,likeNo,68.36,57,Female,0,Travelers
+treatment,likeNo,25.77,68,Female,0,Travelers
+treatment,likeNo,54.06,67,Male,0,Travelers
+treatment,likeNo,66.62,66,Female,0,Travelers
+control,likeNo,51.79,43,Male,0,Travelers
+treatment,likeNo,23.97,76,Female,0,Travelers
+treatment,likeNo,0.69,61,Male,0,Travelers
+treatment,likeNo,50.53,52,Female,0,Travelers
+treatment,likeNo,85.77,54,Female,0,Travelers
+treatment,likeNo,75.46,56,Male,0,Travelers
+treatment,likeNo,72.31,53,Male,0,Travelers
+treatment,likeNo,36.91,51,Male,0,Travelers
+treatment,likeNo,46.83,66,Female,0,Travelers
+treatment,likeNo,94.85,62,Male,0,Travelers
+treatment,likeNo,50.34,46,Female,0,Travelers
+treatment,likeNo,58.29,57,Female,0,Travelers
+treatment,likeNo,60.74,50,Male,0,Travelers
+treatment,likeNo,78.23,65,Female,0,Travelers
+control,likeYes,61.15,49,Male,0,Travelers
+control,likeYes,45.52,65,Male,0,Travelers
+control,likeNo,48.7,71,Male,0,Travelers
+treatment,likeNo,39.38,42,Male,0,Travelers
+treatment,likeNo,47.53,57,Male,0,Travelers
+treatment,likeNo,61.45,51,Male,0,Travelers
+treatment,likeNo,48.37,62,Female,0,Travelers
+treatment,likeNo,68.9,62,Male,0,Travelers
+treatment,likeNo,37.8,57,Female,0,Travelers
+treatment,likeNo,96.51,55,Female,0,Travelers
+treatment,likeNo,55.32,56,Female,0,Travelers
+treatment,likeNo,105.54,58,Female,0,Travelers
+treatment,likeNo,104.31,68,Male,0,Travelers
+treatment,likeYes,48.95,51,Female,0,Travelers
+control,likeNo,59.08,49,Female,0,Travelers
+treatment,likeNo,60.17,59,Female,0,Travelers
+treatment,likeNo,64.72,56,Female,0,Travelers
+treatment,likeNo,86.78,58,Male,0,Travelers
+treatment,likeNo,77.42,39,Female,0,Travelers
+control,likeNo,51.54,68,Female,0,Travelers
+treatment,likeNo,72.65,61,Male,0,Travelers
+control,likeNo,50.75,64,Male,0,Travelers
+treatment,likeYes,42.47,51,Male,0,Travelers
+treatment,likeNo,51.35,44,Male,0,Travelers
+treatment,likeNo,77.29,46,Male,0,Travelers
+treatment,likeNo,62.29,50,Female,0,Travelers
+treatment,likeNo,60.98,53,Male,0,Travelers
+treatment,likeYes,79.57,58,Male,0,Travelers
+treatment,likeNo,15.35,61,Female,0,Travelers
+treatment,likeNo,46.59,63,Female,0,Travelers
+control,likeNo,113.46,65,Male,0,Travelers
+treatment,likeNo,63.6,45,Male,0,Travelers
+treatment,likeYes,78.87,59,Female,0,Travelers
+control,likeNo,78.02,51,Female,0,Travelers
+control,likeNo,69.08,68,Female,0,Travelers
+treatment,likeNo,101.17,66,Female,0,Travelers
+treatment,likeNo,60.93,61,Male,0,Travelers
+control,likeNo,62.93,61,Male,0,Travelers
+treatment,likeNo,92.43,48,Female,0,Travelers
+treatment,likeNo,45.95,54,Male,0,Travelers
+control,likeNo,68.45,52,Female,0,Travelers
+treatment,likeNo,82.35,62,Female,0,Travelers
+treatment,likeNo,49.2,52,Male,0,Travelers
+treatment,likeYes,60.28,72,Female,0,Travelers
+treatment,likeNo,36.98,60,Male,0,Travelers
+control,likeNo,71.49,51,Female,0,Travelers
+control,likeNo,74.78,61,Female,0,Travelers
+control,likeYes,37.6,57,Male,0,Travelers
+treatment,likeNo,29.87,62,Female,0,Travelers
+treatment,likeNo,24.6,78,Female,0,Travelers
+control,likeNo,64.84,47,Male,0,Travelers
+treatment,likeYes,82.08,80,Male,0,Travelers
+treatment,likeYes,48.4,57,Male,0,Travelers
+treatment,likeNo,114.28,59,Male,0,Travelers
+treatment,likeNo,96.9,61,Male,0,Travelers
+control,likeNo,58.36,56,Female,0,Travelers
+treatment,likeNo,106.43,55,Female,0,Travelers
+control,likeNo,72.47,61,Female,0,Travelers
+control,likeNo,55.41,66,Male,0,Travelers
+treatment,likeNo,50.6,32,Female,2,Moving up
+treatment,likeNo,50.98,38,Male,5,Moving up
+control,likeNo,40.59,46,Female,3,Moving up
+control,likeNo,52.3,31,Male,2,Moving up
+control,likeNo,57.66,34,Male,3,Moving up
+treatment,likeNo,56.98,36,Male,2,Moving up
+control,likeNo,36.41,33,Female,0,Moving up
+treatment,likeNo,46.97,38,Male,3,Moving up
+control,likeNo,65.23,30,Male,2,Moving up
+treatment,likeNo,58.74,43,Female,3,Moving up
+treatment,likeNo,49.51,33,Female,1,Moving up
+control,likeYes,57.04,34,Female,1,Moving up
+control,likeNo,53.79,37,Female,0,Moving up
+control,likeNo,69.95,39,Female,2,Moving up
+control,likeNo,57.27,39,Female,0,Moving up
+control,likeNo,49.9,39,Female,3,Moving up
+treatment,likeNo,52.95,36,Female,2,Moving up
+control,likeNo,70.54,31,Female,4,Moving up
+control,likeNo,66.92,43,Female,0,Moving up
+control,likeNo,39.68,34,Male,2,Moving up
+control,likeNo,54.86,41,Female,2,Moving up
+treatment,likeNo,60.05,35,Female,0,Moving up
+control,likeNo,68.04,38,Male,4,Moving up
+control,likeNo,73.8,34,Female,0,Moving up
+control,likeNo,53.6,33,Female,3,Moving up
+control,likeYes,52.11,39,Male,1,Moving up
+control,likeYes,69.55,43,Female,3,Moving up
+treatment,likeYes,50.47,31,Female,3,Moving up
+control,likeNo,61.15,34,Female,1,Moving up
+control,likeNo,65.69,32,Female,3,Moving up
+treatment,likeYes,49.27,39,Female,2,Moving up
+control,likeNo,29.77,29,Female,3,Moving up
+control,likeNo,51.83,36,Male,1,Moving up
+treatment,likeNo,45.64,34,Male,1,Moving up
+treatment,likeNo,53.67,39,Male,7,Moving up
+control,likeNo,43.41,32,Female,4,Moving up
+control,likeNo,62.09,36,Male,0,Moving up
+control,likeNo,49.24,34,Female,2,Moving up
+treatment,likeNo,39.78,43,Male,0,Moving up
+control,likeNo,41.1,38,Female,2,Moving up
+treatment,likeYes,52.78,32,Female,1,Moving up
+control,likeNo,58.76,42,Female,2,Moving up
+treatment,likeNo,44.81,39,Female,5,Moving up
+treatment,likeNo,44.13,40,Female,4,Moving up
+control,likeNo,36.26,37,Female,1,Moving up
+treatment,likeYes,45.35,39,Female,1,Moving up
+control,likeNo,50.72,30,Female,0,Moving up
+control,likeYes,46.54,36,Female,1,Moving up
+treatment,likeNo,50.56,37,Female,3,Moving up
+control,likeNo,59.66,37,Female,1,Moving up
+control,likeNo,55.94,32,Female,3,Moving up
+control,likeNo,66.01,34,Female,3,Moving up
+control,likeYes,39.37,37,Female,1,Moving up
+control,likeNo,54.51,38,Female,2,Moving up
+control,likeNo,49.31,42,Female,2,Moving up
+treatment,likeNo,54.74,40,Female,0,Moving up
+control,likeYes,49.78,36,Male,1,Moving up
+control,likeYes,41.77,36,Female,2,Moving up
+control,likeNo,73.24,26,Female,2,Moving up
+control,likeNo,53.52,42,Male,1,Moving up
+control,likeNo,66.42,36,Male,1,Moving up
+control,likeNo,41.19,36,Female,4,Moving up
+treatment,likeYes,58.93,40,Female,2,Moving up
+control,likeYes,52.35,36,Female,1,Moving up
+treatment,likeNo,40.52,36,Male,0,Moving up
+treatment,likeNo,43.88,33,Female,0,Moving up
+control,likeNo,64.2,41,Female,2,Moving up
+control,likeYes,47.58,38,Male,0,Moving up
+control,likeNo,60.75,33,Male,1,Moving up
+treatment,likeNo,53.67,34,Male,5,Moving up

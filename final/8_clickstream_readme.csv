@@ -1,0 +1,7 @@
+variable,description
+visit_date,date of the page visit
+condition,two versions of the ads (taste: ads focusing on subjective hedonic taste of the product; quality: ads focusing on objective quality of the product)
+time_spent_homepage_sec,time spent on the page
+clicked_article,"whether the link to a detailed article about the product is clicked (1 = yes, 0 = no)"
+clicked_like,"whether the like button is clicked (1 = yes, 0 = no)"
+clicked_share,"whether the share button is clicked (1 = yes, 0 = no)"
