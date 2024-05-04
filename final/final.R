@@ -101,4 +101,5 @@ aggregate(seg.df, list(seg.mc$classification), mean)
 clusplot(seg.df, seg.mc$classification, color = TRUE, shade = TRUE,
          labels = 4, lines = 0, main = "Model-based cluster plot")
 boxplot(seg.df$Education ~ seg.mc$classification, ylab = "Education", xlab = "Cluster")
+boxplot(seg.df$Employment ~ seg.mc$classification, ylab = "Employment", xlab = "Cluster")
 
