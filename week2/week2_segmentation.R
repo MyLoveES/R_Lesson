@@ -34,11 +34,14 @@ seg.df$gender <- ifelse(seg.df$gender=="Male",0,1)
 seg.df$ownHome <- ifelse(seg.df$ownHome == "ownNo", 0,1)
 seg.df$subscribe <- ifelse(seg.df$subscribe == "subNo", 0,1)
 head(seg.df)
+summary(seg.df, digits = 2)
+str(seg.df)
 
 seg.df.sc <- seg.df
 seg.df.sc[, c(1,3,4)] <- scale(seg.df[, c(1,3,4)])
 # We only need to standardize continuous variables.
 head(seg.df.sc)
+str(seg.df.sc)
 
 summary(seg.df.sc, digits = 2)
 
@@ -80,6 +83,7 @@ seg.k <- kmeans(seg.df.sc, centers = 4) #use standardized variables
 aggregate(seg.df, list(seg.k$cluster), mean)
 
 boxplot(seg.df$income ~ seg.k$cluster, ylab = "Income", xlab = "Cluster")
+boxplot(seg.df$kids ~ seg.k$cluster, ylab = "kids", xlab = "Cluster")
 
 clusplot(seg.df, seg.k$cluster,
          color = TRUE,
